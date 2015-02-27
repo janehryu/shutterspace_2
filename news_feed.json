@@ -1,0 +1,20 @@
+{
+	"news_feed" : [
+		{
+			"content" : "#wedding",
+			"imageURL" : "img/hp1.jpg"
+		},
+		{
+			"content" : "#family",
+			"imageURL" : "img/hp2.jpg"
+		},
+		{
+			"content" : "#sorority",
+			"imageURL" : "img/hp3.jpg"
+		},
+		{
+			"content" : "#headshot",
+			"imageURL" : "img/headshot.jpg"
+		}
+	]
+}
